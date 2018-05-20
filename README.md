@@ -1,7 +1,3 @@
-# JeeGeneral
+# Xebia test
 
-start spring boot configuration
-
-1. configuration with spring boot and run with tomcat embed in eclipse
-
-2. add the configuration of spring data jpa
+Copy from un simple jee projet in my github
